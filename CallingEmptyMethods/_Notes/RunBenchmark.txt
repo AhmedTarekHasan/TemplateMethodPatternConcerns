@@ -1,0 +1,1 @@
+﻿dotnet run --project CallingEmptyMethods.csproj -c Release
