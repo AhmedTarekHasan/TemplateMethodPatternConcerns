@@ -1,10 +1,10 @@
-<link rel="canonical" href="https://levelup.gitconnected.com/template-method-design-pattern-in-net-c-73d0be82571e?sk=d16109dcd2bf32cb1d22f4d765044312" />
+<link rel="canonical" https://www.developmentsimplyput.com/post/analysis-of-template-method-design-pattern-in-net-c" />
 
 # Unit Testing Best Practices In .NET C#
 ### Learn the Template Method Design Pattern in .NET C# and explore the different possibilities.
 
 <p align="center">
-  <img src="https://miro.medium.com/max/1400/1*PGZGk8KKDomeXHA7khu3Nw.jpeg">
+  <img src="https://static.wixstatic.com/media/488a99_411f0e84061847f4a97015e85e783919~mv2.png">
 </p>
 
 <br/>
@@ -53,4 +53,4 @@ If you are interested into reading more about this topic, you can read [the rest
 [LinkedIn]: https://www.linkedin.com/in/atarekhasan/
 [Friend Links]: https://www.linkedin.com/feed/update/urn:li:activity:6866082670108143616/
 [Newsletter]: https://www.linkedin.com/newsletters/development-simply-put-6866647119655247872/
-[Article]: https://levelup.gitconnected.com/template-method-design-pattern-in-net-c-73d0be82571e?sk=d16109dcd2bf32cb1d22f4d765044312
+[Article]: https://www.developmentsimplyput.com/post/analysis-of-template-method-design-pattern-in-net-c
